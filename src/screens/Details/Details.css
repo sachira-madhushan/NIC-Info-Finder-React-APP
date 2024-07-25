@@ -32,11 +32,12 @@ img{
     position:relative;
 }
 
-img{
+.topimage{
     position:absolute;
 }
 
 .close{
     background-color: white;
     float: right;
+    display: flex;
 }
