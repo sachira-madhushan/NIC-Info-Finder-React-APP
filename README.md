@@ -1,13 +1,7 @@
-<<<<<<< HEAD
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
 # NIC-Info-Finder-React-APP
 NIC Info Finder React APP
->>>>>>> 21ca898bbef89e0822a726004ab75dc240df5ebb
+
+<img src="https://github.com/sachira-madhushan/NIC-Info-Finder-React-APP/blob/main/1.png">
+<img src="https://github.com/sachira-madhushan/NIC-Info-Finder-React-APP/blob/main/2.png">
+<img src="https://github.com/sachira-madhushan/NIC-Info-Finder-React-APP/blob/main/3.png">
+<img src="https://github.com/sachira-madhushan/NIC-Info-Finder-React-APP/blob/main/4.png">
