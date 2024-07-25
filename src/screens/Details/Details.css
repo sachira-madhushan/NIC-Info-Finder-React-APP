@@ -1,0 +1,42 @@
+img{
+    padding-bottom:10px;
+}
+.main{
+    background-color: white;
+    border-radius:20px;
+    box-shadow:5px 5px 5px solid white;
+    width:390px;
+}
+.inputs{
+    margin-top:190px;
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap:10px;
+}
+#outlined-basic{
+    width:300px;
+    font-size:12px;
+}
+.submitbutton{
+    width:330px;
+    font-size:12px;
+}
+
+.nic{
+    margin-top:20px;
+}
+
+.imagewithclose{
+    position:relative;
+}
+
+img{
+    position:absolute;
+}
+
+.close{
+    background-color: white;
+    float: right;
+}

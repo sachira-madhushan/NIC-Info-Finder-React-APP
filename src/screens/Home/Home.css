@@ -1,0 +1,29 @@
+h2{
+    text-align: center;
+}
+
+.image:hover{
+    .click{
+        display: block;
+        cursor: pointer;
+    }
+}
+.image{
+    position: relative;
+}
+.click{
+    position: absolute;
+    width: 100%;
+    height:100%;
+    background-color: rgba(0, 126, 0, 0.78);
+    z-index: 5;
+    display: none;
+    border-radius:10px;
+}
+.click h2{
+    position: absolute;
+    text-align: center;
+    font-size: 18px;
+    top:40%;
+    left:45%;
+}
